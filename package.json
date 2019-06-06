@@ -8,7 +8,8 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "crocks": "0.11.1"
+    "crocks": "0.11.1",
+    "ramda": "^0.26.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
